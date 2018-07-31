@@ -1,2 +1,2 @@
-# Kaggle---House-Prices-Competition
-My final project in my Data Science course
+This Kaggle comprtition was given as the final project in my Data Science course. The purpose was to condunt an end-to-end project that includes all steps: data exploration, pre-processing, feature engineering and modeling.
+In addition, I wanted to include as many tools as possible from the ones I learned (programming and ML tools). For example: Pipelines, Class Building, PCA, Stacking, tqdm and others
